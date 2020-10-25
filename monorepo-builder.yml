@@ -90,6 +90,7 @@ parameters:
     src/OAuthgen: 'git@github.com:SocialiteProviders/OAuthgen.git'
     src/Odnoklassniki: 'git@github.com:SocialiteProviders/Odnoklassniki.git'
     src/Okta: 'git@github.com:SocialiteProviders/Okta.git'
+    src/OneLogin: 'git@github.com:CharuniKaushalya/OneLogin.git'
     src/Orcid: 'git@github.com:SocialiteProviders/Orcid.git'
     src/OSChina: 'git@github.com:SocialiteProviders/OSChina.git'
     src/Ovh: 'git@github.com:SocialiteProviders/Ovh.git'
